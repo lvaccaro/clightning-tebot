@@ -1,4 +1,5 @@
 {
   "telegramToken": "",
-  "lightningDir": "/root/.lightning"
+  "lightningDir": "/root/.lightning",
+  "username": ""
 }
