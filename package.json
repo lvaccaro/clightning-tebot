@@ -1,0 +1,22 @@
+{
+  "name": "clightning-tebot",
+  "version": "1.0.0",
+  "description": "Telegram Bot to control lightning wallet based on c-lightning",
+  "main": "index.js",
+  "author": "Luca Vaccaro <luck87@gmail.com>",
+  "license": "LGPL3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lvaccaro/clightning-tebot.git"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "jimp": "^0.6.0",
+    "lightning-client": "^0.5.2-beta.8",
+    "node-telegram-bot-api": "^0.30.0",
+    "qr-image": "^3.2.0",
+    "qrcode-reader": "^1.0.4",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}

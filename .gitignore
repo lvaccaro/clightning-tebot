@@ -1,0 +1,5 @@
+node_modules
+.idea
+photos
+config.json
+package-lock.json
